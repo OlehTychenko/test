@@ -1,5 +1,5 @@
 let func = () => {
-    return 42;
+    return 2;
 };
 
 let showMeYourLove = (yes) => {
