@@ -1,3 +1,4 @@
 let func = () => {
-    return 1;
+    return 2;
 };
+
